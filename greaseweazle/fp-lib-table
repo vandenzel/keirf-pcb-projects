@@ -1,3 +1,4 @@
 (fp_lib_table
-  (lib (name FF)(type KiCad)(uri "$(KIPRJMOD)/FF.pretty")(options "")(descr ""))
+  (lib (name "FF")(type "KiCad")(uri "$(KIPRJMOD)/../FF.pretty")(options "")(descr ""))
+  (lib (name "Kicad-STM32")(type "KiCad")(uri "/home/denz/Drive/KiCad/Kicad-STM32/Footprints")(options "")(descr ""))
 )
